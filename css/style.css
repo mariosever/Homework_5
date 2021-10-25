@@ -1,0 +1,43 @@
+/* CSS za Hairdresser */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+
+.search {
+    margin-left: 30px;
+}
+
+input[type="search"]::placeholder {
+    color: #000;
+}
+
+.services {
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
